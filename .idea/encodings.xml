@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-hibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-ba" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-de" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-en_US" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-hr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-ja" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-pt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-sr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_CN" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_HK" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_TW" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-tools/db-migration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-tools/db-migration/1.0-alpha1_1.0-alpha3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jos-webapp" charset="UTF-8" />
+  </component>
+</project>

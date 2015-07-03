@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jos-tools/db-migration/1.0-alpha1_1.0-alpha3/1.0-alpha1_1.0-alpha3.iml" filepath="$PROJECT_DIR$/jos-tools/db-migration/1.0-alpha1_1.0-alpha3/1.0-alpha1_1.0-alpha3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-tools/db-migration/db-migration.iml" filepath="$PROJECT_DIR$/jos-tools/db-migration/db-migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-dao/jos-dao.iml" filepath="$PROJECT_DIR$/jos-dao/jos-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-domain/jos-domain.iml" filepath="$PROJECT_DIR$/jos-domain/jos-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-hibernate/jos-hibernate.iml" filepath="$PROJECT_DIR$/jos-hibernate/jos-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-ba/jos-i18n-ba.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-ba/jos-i18n-ba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-de/jos-i18n-de.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-de/jos-i18n-de.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-en_US/jos-i18n-en_US.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-en_US/jos-i18n-en_US.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-es/jos-i18n-es.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-es/jos-i18n-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-hr/jos-i18n-hr.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-hr/jos-i18n-hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-ja/jos-i18n-ja.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-ja/jos-i18n-ja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-pt/jos-i18n-pt.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-pt/jos-i18n-pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-sr/jos-i18n-sr.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-sr/jos-i18n-sr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_CN/jos-i18n-zh_CN.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-zh_CN/jos-i18n-zh_CN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_HK/jos-i18n-zh_HK.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-zh_HK/jos-i18n-zh_HK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-i18n/jos-i18n-zh_TW/jos-i18n-zh_TW.iml" filepath="$PROJECT_DIR$/jos-i18n/jos-i18n-zh_TW/jos-i18n-zh_TW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-service/jos-service.iml" filepath="$PROJECT_DIR$/jos-service/jos-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-tools/jos-tools.iml" filepath="$PROJECT_DIR$/jos-tools/jos-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-web/jos-web.iml" filepath="$PROJECT_DIR$/jos-web/jos-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jos-webapp/jos-webapp.iml" filepath="$PROJECT_DIR$/jos-webapp/jos-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openid-server.iml" filepath="$PROJECT_DIR$/.idea/openid-server.iml" />
+    </modules>
+  </component>
+</project>
